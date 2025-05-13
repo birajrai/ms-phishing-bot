@@ -1,10 +1,12 @@
-# MS Phishing Bot
+# MS (Microsoft) Phishing Bot
 
-MS Phishing Bot is a Discord bot with a collection of potentially harmful features, intended purely for educational purposes and personal experimentation. This project is not meant to be used for malicious activities. Use it responsibly and at your own risk.
+MS (Microsoft) Phishing Bot is a Discord bot designed for educational purposes, demonstrating how phishing and social engineering can exploit online users. It uses official Microsoft login redirects and webhook integrations to simulate real-world phishing scenarios. **This project is intended purely for learning and experimentation. Use it responsibly.**
 
 ## ⚠️ Disclaimer
 
 I had no intention of harming anyone with this bot. It is simply a fun project designed to demonstrate some common phishing techniques and security vulnerabilities for learning purposes. I am not responsible for any misuse, damage, or consequences arising from its use.
+
+**If this project is found to be against GitHub or Microsoft terms, I kindly request that my GitHub profile not be suspended. You may delete this repository or contact me at my email: [mail@dapirates.xyz](mailto:mail@dapirates.xyz).**
 
 **Use this bot responsibly. Do not use it for any illegal or unethical purposes.**
 
